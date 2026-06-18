@@ -1,4 +1,4 @@
-# AI Visual Assistant Pro
+# AI Visual Assistant
 
 ## 📌 Project Overview
 
